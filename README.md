@@ -17,6 +17,14 @@ Xuechen Wang, Shiwan Zhao, Yong Qin
 
 # Cite us
 ```bibtex
+@article{wang2024enhancing,
+  title={Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment},
+  author={Wang, Xuechen and Zhao, Shiwan and Sun, Haoqin and Wang, Hui and Zhou, Jiaming and Qin, Yong},
+  journal={arXiv preprint arXiv:2412.20821},
+  year={2024}
+}
+
+```bibtex
 @article{sun2024enhancing,
   title={Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework},
   author={Sun, Haoqin and Zhao, Shiwan and Li, Shaokai and Kong, Xiangyu and Wang, Xuechen and Kong, Aobo and Zhou, Jiaming and Chen, Yong and Zeng, Wenjia and Qin, Yong},
