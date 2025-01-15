@@ -1,8 +1,8 @@
 # Emotion Recognition
-[ICASSP 2025] ["Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment"]    
+[ICASSP 2025] ["Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment"](https://arxiv.org/pdf/2412.20821)  
 Xuechen Wang, Shiwan Zhao, Haoqin Sun, Hui Wang, Jiaming Zhou, Yong Qin
 
-[ICASSP 2025] ["Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework"](https://arxiv.org/pdf/2407.09029))  
+[ICASSP 2025] ["Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework"](https://arxiv.org/pdf/2407.09029)  
 Haoqin Sun, Shiwan Zhao, Shaokai Li, Xiangyu Kong, Xuechen Wang, Aobo Kong, Jiaming Zhou, Yong Chen, Wenjia Zeng, Yong Qin
 
 [INTERSPEECH 2024] ["Iterative Prototype Refinement for Ambiguous Speech Emotion Recognition"](https://www.isca-archive.org/interspeech_2024/sun24e_interspeech.pdf)    
