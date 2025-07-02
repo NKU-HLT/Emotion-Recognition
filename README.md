@@ -1,4 +1,7 @@
 # Emotion Recognition
+[INTERSPEECH 2025] ["RA-CLAP: Relation-Augmented Emotional Speaking Style Contrastive Language-Audio Pretraining For Speech Retrieval"](https://arxiv.org/pdf/2505.19437)  
+Haoqin Sun, Jingguang Tian, Jiaming Zhou, Hui Wang, Jiabei He, Shiwan Zhao, Xiangyu Kong, Desheng Hu, Xinkang Xu, Xinhui Hu, Yong Qin
+
 [ICASSP 2025] ["Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment"](https://arxiv.org/pdf/2412.20821)  
 Xuechen Wang, Shiwan Zhao, Haoqin Sun, Hui Wang, Jiaming Zhou, Yong Qin
 
@@ -16,6 +19,14 @@ Xuechen Wang, Shiwan Zhao, Yong Qin
 
 
 # Cite us
+```bibtex
+@article{sun2025ra,
+  title={RA-CLAP: Relation-Augmented Emotional Speaking Style Contrastive Language-Audio Pretraining For Speech Retrieval},
+  author={Sun, Haoqin and Tian, Jingguang and Zhou, Jiaming and Wang, Hui and He, Jiabei and Zhao, Shiwan and Kong, Xiangyu and Hu, Desheng and Xu, Xinkang and Hu, Xinhui and others},
+  journal={arXiv preprint arXiv:2505.19437},
+  year={2025}
+}
+
 ```bibtex
 @article{wang2024enhancing,
   title={Enhancing Multimodal Emotion Recognition through Multi-Granularity Cross-Modal Alignment},
